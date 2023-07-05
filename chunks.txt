@@ -1,0 +1,344 @@
+Uztelecom bilan bog'lanish: Biz bilan bog'laning  1084 Internet va IPTV xizmatlari bo'yicha 1086 Telefon ta’mirlash bo’limi 1099 Mobil aloqa bo'yicha 1155 Korporativ mijozlar uchun
+
+<CHUNK>
+
+Barakali tariflari: Barakali 22
+22 000 so'm oyiga
+Kiritilgan limit
+Cheksiz* daqiqa
+oyiga
+Internet
+6 GB
+kiritilgan limit
+Internet
+12 GB
+kiritilgan limit 01:00 dan 06:59 gacha
+
+Barakali 33
+33 000 so'm oyiga
+Kiritilgan limit
+Cheksiz* daqiqa
+oyiga
+Internet
+9 GB
+kiritilgan limit
+Internet
+18 GB
+kiritilgan limit 01:00 dan 06:59 gacha
+
+TAVSIYA ETAMIZ
+Barakali 44
+44 000 so'm oyiga
+Kiritilgan limit
+Cheksiz* daqiqa
+oyiga
+Internet
+14 GB
+kiritilgan limit
+Internet
+28 GB
+kiritilgan limit 01:00 dan 06:59 gacha
+SMS
+1000 SMS
+kiritilgan limit
+
+Barakali 55
+55 000 so'm oyiga
+Kiritilgan limit
+Cheksiz* daqiqa
+oyiga
+Internet
+22 GB
+kiritilgan limit
+Internet
+44 GB
+kiritilgan limit 01:00 dan 06:59 gacha
+SMS
+1000 SMS
+kiritilgan limit
+
+Barakali 77
+77 000 so'm oyiga
+Kiritilgan limit
+Cheksiz* daqiqa
+oyiga
+Internet
+35 GB
+kiritilgan limit
+Internet
+70 GB
+kiritilgan limit 01:00 dan 06:59 gacha
+SMS
+2000 SMS
+kiritilgan limit
+
+Barakali 111
+111 000 so'm oyiga
+Kiritilgan limit
+Cheksiz* daqiqa
+oyiga
+Internet
+60 GB
+kiritilgan limit
+Internet
+100 GB
+kiritilgan limit 01:00 dan 06:59 gacha
+SMS
+2000 SMS
+kiritilgan limit
+
+<CHUNK>
+
+Units tariflari: Units 500
+2 000 so'm kuniga
+500 Units
+kiritilgan limit
+Tavsiya etamiz
+Units 700
+7 000 so'm 7 kunga
+700 Units
+kiritilgan limit
+Units 1500
+15 000 so'm 15 kunga
+1500 Units
+kiritilgan limit
+Units 5000
+25 000 so'm 30 kunga
+5000 Units
+kiritilgan limit
+Units 8000
+35 000 so'm 30 kunga
+8000 Units
+kiritilgan limit
+Units 11000
+45 000 so'm 30 kunga
+11000 Units
+kiritilgan limit
+Units 14000
+55 000 so'm 30 kunga
+14000 Units
+kiritilgan limit
+Units 18000
+65 000 so'm 30 kunga
+18000 Units
+kiritilgan limit
+Units 22000
+75 000 so'm 30 kunga
+22000 Units
+kiritilgan limit
+
+<CHUNK>
+
+Units tariflari: Units 500
+2 000 so'm kuniga
+500 Units
+kiritilgan limit
+Tavsiya etamiz
+Units 700
+7 000 so'm 7 kunga
+700 Units
+kiritilgan limit
+Units 1500
+15 000 so'm 15 kunga
+1500 Units
+kiritilgan limit
+Units 5000
+25 000 so'm 30 kunga
+5000 Units
+kiritilgan limit
+Units 8000
+35 000 so'm 30 kunga
+8000 Units
+kiritilgan limit
+Units 11000
+45 000 so'm 30 kunga
+11000 Units
+kiritilgan limit
+Units 14000
+55 000 so'm 30 kunga
+14000 Units
+kiritilgan limit
+Units 18000
+65 000 so'm 30 kunga
+18000 Units
+kiritilgan limit
+Units 22000
+75 000 so'm 30 kunga
+22000 Units
+kiritilgan limit
+
+<CHUNK>
+
+Milliy tariflari: Milliy 2
+2 200 so'm kuniga
+Kiritilgan limit
+10 daqiqa
+kuniga
+Internet
+500 MB
+kiritilgan limit
+SMS
+10 SMS
+kiritilgan limit
+
+Milliy 10
+11 000 so'm oyiga
+Kiritilgan limit
+20 daqiqa
+oyiga
+Kiritilgan limit
+20 daqiqa
+tarmoq ichida
+Internet
+20 MB
+kiritilgan limit
+SMS
+20 SMS
+kiritilgan limit
+
+Milliy 15
+15 000 so'm oyiga
+Kiritilgan limit
+100 daqiqa
+oyiga
+Internet
+500 MB
+kiritilgan limit
+SMS
+500 SMS
+kiritilgan limit
+
+Milliy 40
+40 000 so'm oyiga
+Kiritilgan limit
+Cheksiz daqiqa
+oyiga
+Internet
+8 GB
+kiritilgan limit
+SMS
+3000 SMS
+kiritilgan limit
+
+Milliy 50
+50 000 so'm oyiga
+Kiritilgan limit
+Cheksiz daqiqa
+oyiga
+Internet
+12 GB
+kiritilgan limit
+SMS
+5000 SMS
+kiritilgan limit
+
+Milliy 70
+70 000 so'm oyiga
+Kiritilgan limit
+Cheksiz daqiqa
+oyiga
+Internet
+20 GB
+kiritilgan limit
+SMS
+5000 SMS
+kiritilgan limit
+
+Milliy 100
+100 000 so'm oyiga
+Kiritilgan limit
+Cheksiz daqiqa
+oyiga
+Internet
+35 GB
+kiritilgan limit
+SMS
+5000 SMS
+kiritilgan limit
+
+Milliy 150
+150 000 so'm oyiga
+Kiritilgan limit
+Cheksiz daqiqa
+oyiga
+Internet
+100 GB
+kiritilgan limit
+SMS
+5000 SMS
+kiritilgan limit
+
+<CHUNK>
+
+Milliy tariflari: Travel 5: 55 000 so'm oyiga, Kiritilgan limit 500 daqiqa oyiga, Internet 6144 MB kiritilgan limit, SMS 500 SMS kiritilgan limit.
+Travel 10: 110 000 so'm oyiga, Kiritilgan limit 1000 daqiqa oyiga, Internet 12288 MB kiritilgan limit, SMS 1000 SMS kiritilgan limit
+
+<CHUNK>
+
+M2M tarif rejalari to'plami: Uzmobile M2M
+6 310 so'm oyiga
+Kiritilgan limit
+150 daqiqa
+oyiga
+Internet
+250 MB
+kiritilgan limit
+M2M basic
+1 500 so'm oyiga
+UZCARD GSM
+6 310 so'm oyiga
+Internet
+250 MB
+kiritilgan limit
+HUMO GSM
+6 310 so'm oyiga
+Internet
+250 MB
+kiritilgan limit
+Uzmobile M2M yil
+75 000 so'm 1 yilga
+Kiritilgan limit
+150 daqiqa
+oyiga
+Internet
+250 MB
+kiritilgan limit
+
+<CHUNK>
+
+TA'LIM GSM telefon tariflari: <END> TA'LIM:
+
+Price: 34,900 som oyiga
+Kiritilgan limit: 300 daqiqa oyiga
+Tarif rejasi doirasida kiritilgan limit: 1000 daqiqa oyiga
+Internet: 8000 MB kiritilgan limit
+SMS: 500 SMS kiritilgan limit
+<END> MAKTAB:
+
+Price: 29,900 som oyiga
+Kiritilgan limit: 200 daqiqa oyiga
+Tarif rejasi doirasida kiritilgan limit: 500 daqiqa oyiga
+Internet: 5000 MB kiritilgan limit
+SMS: 500 SMS kiritilgan limit
+<END> Bolajon:
+
+Price: 18,000 som oyiga
+Kiritilgan limit: 200 daqiqa oyiga
+SMS: 200 SMS kiritilgan limit
+<END> Yoshlar:
+
+Price: 5,000 som oyiga
+Tarif rejasi doirasida kiritilgan limit: 500 daqiqa oyiga
+<END> Volontyor:
+
+Price: 30,000 som oyiga
+Kiritilgan limit: Cheksiz oyiga
+Internet: 6 GB kiritilgan limit
+SMS: 2000 SMS kiritilgan limit
+
+<CHUNK>
+
+GSM telefon tariflari: GSM telefon tariflari: Barakali, Units, Milliy, Travel, TA'LIM, M2M tarif rejalari to`plami 
+
+<CHUNK>
+

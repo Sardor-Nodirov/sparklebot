@@ -1,0 +1,15 @@
+gunicorn
+Flask
+werkzeug
+sslcrypto
+pyTelegramBotAPI
+datetime
+tg-logger
+pytz
+langchain
+PyPDF2
+pinecone-client
+pypdf
+openai
+cohere
+chromadb
